@@ -1,0 +1,15 @@
+{
+  "name": "yarabinwalirich",
+  "version": "1.0.1",
+  "description": "i m truing my best to learn these fancy auhtontification and backend serveces because in september ill try to land a job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.2",
+    "date-fns": "^4.4.0"
+  }
+}
